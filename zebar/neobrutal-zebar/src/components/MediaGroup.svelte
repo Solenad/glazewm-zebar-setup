@@ -18,7 +18,8 @@
     <Marquee
       fade={true}
       pauseOnHover={true}
-      innerClassName="[--duration:10s] [--gap:5rem]"
+      class="gap-[5rem] [--gap:5rem]"
+      innerClassName="[--duration:10s] [--gap:5rem] gap-[5rem]"
     >
       <span class="text-sm whitespace-nowrap">
         {media.currentSession.title}
