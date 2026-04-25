@@ -12,6 +12,16 @@ Tiling window manager and system bar configuration for Windows.
 
 A desktop setup pairing [GlazeWM](https://github.com/larsgorges/glazewm) (a tiling window manager for Windows) with [Zebar](https://github.com/glzr-io/zebar) (a customizable system bar). Includes configuration files and a custom Zebar theme.
 
+### Software Stack
+
+| Component | Tool |
+|-----------|------|
+| OS | Windows 11 |
+| Terminal | Wezterm |
+| Shell | PowerShell + Starship |
+| Window Manager | GlazeWM |
+| System Bar | Zebar |
+
 ## Quick Start
 
 ### GlazeWM
