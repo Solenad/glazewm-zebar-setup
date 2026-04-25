@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # GlazeWM + Zebar Setup
@@ -6,10 +7,9 @@ Tiling window manager and system bar configuration for Windows.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-<figure>
-  <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/43184050-d8a3-432b-a18b-af14c0481944" />
-  <figcaption align="center"><i>Yes, I fw purple a lot. </i></figcaption>
-</figure>
+
+https://github.com/user-attachments/assets/9b681e9f-0b0c-4234-ae65-c69d61805db0
+
 
 </div>
 
@@ -32,6 +32,9 @@ A desktop setup pairing [GlazeWM](https://github.com/larsgorges/glazewm) (a tili
 ### Neovim
 
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/9fdaaec9-72d0-4271-9643-f570d3075e4a" />
+
+### Development
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/43184050-d8a3-432b-a18b-af14c0481944" />
 
 ## Quick Start
 
