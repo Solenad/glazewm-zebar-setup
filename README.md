@@ -42,14 +42,39 @@ A desktop setup pairing [GlazeWM](https://github.com/larsgorges/glazewm) (a tili
 └── README.md
 ```
 
+## Customization
+
+### GlazeWM
+
+Edit `glazewm/config.yaml` to modify:
+
+- Keybindings (default: `Alt` as modifier)
+- Window sizing and gaps
+- Workspace layouts
+- Startup programs
+
+### Zebar
+
+- Base config: `zebar/settings.json`
+- Neobrutal theme: explore `zebar/neobrutal-zebar/`
+- Zebar supports multiple providers (weather, clock, media, etc.) — add them in settings
+
+## Why This Setup?
+
+- **GlazeWM** brings Linux-style tiling window management to Windows
+- **Zebar** provides a modern, customizable system bar
+- The **neobrutal-zebar** theme offers a distinctive aesthetic inspired by neobrutalism
+
+## Gotchas
+
+- GlazeWM requires Windows 10/11
+- Some apps may need manual rules in `config.yaml` to tile correctly (e.g., floating dialogs)
+- Zebar providers may require additional configuration (API keys for weather, etc.)
+
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
 
 ---
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Solenad/glazewm-zebar-setup&type=Date)](https://star-history.com/#Solenad/glazewm-zebar-setup&Date)
 
 </div>
