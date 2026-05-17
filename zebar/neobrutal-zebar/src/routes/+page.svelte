@@ -54,15 +54,15 @@
 </script>
 
 <div
-  class="grid grid-cols-3 items-center h-bar w-full bg-[var(--ctp-macchiatto-mantle)] text-zb-text text-zb-size font-base px-4 backdrop-blur-sm"
+  class="grid grid-cols-[auto_1fr_auto] items-center h-bar w-full bg-[var(--ctp-macchiatto-mantle)] text-zb-text text-zb-size font-base px-4 backdrop-blur-sm"
 >
   <Group class="justify-self-start">
     <LeftGroup battery={battery!} cpu={cpu!} memory={memory!} />
   </Group>
-  <Group class="justify-self-center">
+  <Group class="justify-self-center min-w-0">
     <Workspaces glazewm={glazewm!} />
   </Group>
-  <Group class="justify-self-end gap-5">
+  <Group class="justify-self-end gap-5 whitespace-nowrap">
     <MediaGroup media={media!} />
 
     <RightGroup
