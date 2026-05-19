@@ -54,7 +54,7 @@
 </script>
 
 <div
-  class="grid grid-cols-[auto_1fr_auto] items-center h-bar w-full bg-[var(--ctp-macchiatto-mantle)] text-zb-text text-zb-size font-base px-4 backdrop-blur-sm"
+  class="grid grid-cols-[1fr_auto_1fr] items-center h-bar w-full bg-[var(--ctp-macchiatto-mantle)] text-zb-text text-zb-size font-base px-4 backdrop-blur-sm"
 >
   <Group class="justify-self-start">
     <LeftGroup battery={battery!} cpu={cpu!} memory={memory!} />

@@ -16,7 +16,7 @@
   let { date, network, weather }: RightGroupProps = $props();
 </script>
 
-<div class="flex flex-row gap-3 items-center">
+<div class="flex flex-row gap-2 items-center">
   <div class="flex flex-row items-center gap-1">
     {#if network?.defaultInterface?.type === "ethernet"}
       <i class="ti ti-network"></i>
